@@ -385,9 +385,12 @@ article .icon {
 }
 
 .project-img {
+  /* border-radius: 2rem;
+  width: 80%;
+  height: 70%; */
   border-radius: 2rem;
   width: 80%;
-  height: 70%;
+  height: 500px;
 }
 .project-img-1{
   border-radius: 2rem;
